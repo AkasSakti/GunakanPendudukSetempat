@@ -1,0 +1,5 @@
+//tambahkan kode permision
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+//Jika aplikasi mendukung Android 10 (API 29) ke atas, tambahkan izin berikut untuk lokasi di latar belakang
+<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
